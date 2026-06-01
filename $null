@@ -1,2 +1,0 @@
-mysql: [Warning] Using a password on the command line interface can be insecure.
-ERROR 3730 (HY000) at line 1: Cannot drop table 'user' referenced by a foreign key constraint 'fk_course_teacher' on table 'course'.
